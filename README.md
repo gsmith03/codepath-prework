@@ -18,10 +18,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/a/jXWPhpy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![](https://i.imgur.com/a/jXWPhpy.gif)
-
+<img src='https://imgur.com/6o8lmMQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![iOS Prework](https://imgur.com/6o8lmMQ.gif)
 GIF created with [Kap](https://getkap.co/) for macOS
+https://imgur.com/6o8lmMQ
 
 ## App Brainstorming (Step 4)
 
