@@ -16,7 +16,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Below is a demonstration of how the prework app functions:
+
+![cpDemo3](https://github.com/gsmith03/codepath-prework/assets/52078285/170b757b-abcf-4dcd-8d53-78acdb580040)
 
 <img src="https://imgur.com/6o8lmMQ.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![iOS Prework](https://i.imgur.com/6o8lmMQ.gif)
@@ -62,8 +64,8 @@ categorize them for easy reference. The app will also offer a curated library of
 topics, recommended based on the user's progress and interests. A unique feature will be its text-to-speech capability. This 
 will allow users to listen to their notes about their preferred programming language while also being able to adjust the 
 speech speed for optimal comprehension. To further enhance the learning experience, the app will include a dark mode for 
-extended study sessions. The app will ultimately allow seamless synchronization of notes and progress across 
-devices. 
+extended study sessions. Although some of the features will not be implemented right away, the app will ultimately allow 
+seamless synchronization of notes and progress across devices. 
 
 
 ## Notes
