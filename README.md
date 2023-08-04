@@ -10,13 +10,16 @@ Time spent: 18 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
-- [ ] Text color will change depending on the darkness of the background color
+- [x] Users see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
+
+The following **optional** functionality is completed:
+
+- [x] Text color will change depending on the darkness of the background color
  
 ## Video Walkthrough
 
-Below is a demonstration of how the prework app functions:
+Here's a walkthrough of implemented user stories:
 
 ![cpDemo3](https://github.com/gsmith03/codepath-prework/assets/52078285/170b757b-abcf-4dcd-8d53-78acdb580040)
 
