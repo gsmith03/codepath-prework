@@ -63,12 +63,13 @@ GIF created with [Kap](https://getkap.co/) for macOS
 Using these apps as inspiration, I would like to create an educational app to assist beginner programmers in their learning 
 journey. The app will combine the functionalities of a note-taking app, a YouTube-like platform, and a text-to-speech tool.
 Users can create and organize notes on various programming concepts, languages, and algorithms. They will then be able to
-categorize them for easy reference. The app will also offer a curated library of programming tutorials that cover different 
-topics, recommended based on the user's progress and interests. A unique feature will be its text-to-speech capability. This 
-will allow users to listen to their notes about their preferred programming language while also being able to adjust the 
-speech speed for optimal comprehension. To further enhance the learning experience, the app will include a dark mode for 
-extended study sessions. Although some of the features will not be implemented right away, the app will ultimately allow 
-seamless synchronization of notes and progress across devices. 
+categorize them for easy reference. 
+
+The app will also offer a library of programming tutorials that cover different topics, recommended based on the user's 
+progress and interests. An added feature will be its text-to-speech capability. This will allow users to listen to notes about 
+their preferred programming language while also being able to adjust the speech speed for optimal comprehension. 
+To further enhance the learning experience, the app will include a dark mode for extended study sessions. Although some of the 
+features will not be implemented right away, the app's goal is to allow seamless synchronization of notes and progress across devices. 
 
 
 ## Notes
